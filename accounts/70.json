@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sa2-elliot",
+  "private_key_id": "bc26a7547bcf21b7f0990d49bd2b65eadbac973e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIoUxbs0xkuF6f\ncZy5XGh0TiqCtbkAWdMD7lZOB00YrIN2AebO+NNogmJC8+61JEYnbGuA0AElGPoC\nUUZ28id1rO1WnzKGYQ/J7/Jps8DOAt0YcEFIjD6cZUmZG7DuFVDPVAUrkJSQVa6Q\nuzk+N7m3HqZZcMlkPoMBtU8OLFMT7rp9qwg8TGzdyDYj5zR9KbTlUgvNtlK11nf/\naX0BkIZg3F8C4KxY3WI8J9CfC4J/OIiVj4AunW6YkiJPG1UAtZWAxx0hQCVcgEuO\nPGKjb9RpLAU1v1Yt7d58+ocb48Mk8gd4+2rw2cQSF9QIoZlU7XcGQFciij8RpC0K\neqKwdDpvAgMBAAECggEABhCCG19/FqhQC+fGQgAeFC3ssQjHL9CHRV4l87Pay70j\nOCT0khsJYOZYDAgNliIjkLuBQGKJNlLb88f7JktJkBALGIw1XcR/Uq5TGIjbch66\nCiwSfRvoJJgXMm6Y2YmBaNL0WQ3Ev9wnK67NGylaDsP5aUi0fbg6A4o0eowycq69\n7CyoGkT8GLBuDpM/JEtXpR7TOic+Ojmv/sn3ZT0Yt5xlqCeNF26DDd/KkGjcqQvR\nec+EuP278WCND+P2MNZqBmBtiaWjyMt03PKNJ4aqSmusx44zv/hGBGS3Y9lDy+7p\nA7yTe4OV0dhUsEbIAR4IvPzRcrGrCgrBdUNnT26UoQKBgQD1E75R7wTl+ejxekB8\nuqCxDTVeR/fa/mzWfEznhGsxFv0Zx7LqeYoW5oMUEKToPzgpdP6BuenroIAKvWo7\n3fLQKQyrgLQl8g1vV5Tw9Cj+D0JocibHGCp5eIGh3F1FMQAo48hHQGO2yU+n/GSp\n6GcBXhDc22C5Q//Bmd4Vz2aY3wKBgQDRkm1jFrvp66/f3U2WWWkah0izFP8pWA24\ntilaiNeLNtxkj+zabYbsLE+E1UquKbZiyyXLmoGCTvog0QKhXiCboRIzVGiproVB\nN6JkGxNtqm0C0vn1Bf6VIhmNsCCTxEw00sPYmKysDKvudPsfQFMLr/8XGBu60veT\n4rzIeW1AcQKBgQC1Ez9dfkKaQQnR0UfwYFv2NRIndPk2fyGfX/vaW0Zv4NJkx93z\nzJUw0mQq4RlW188BIoYhB2JETDQOu2DQlu6eypWn6dIw7yTqDUXouh3HiTLBxQXN\nuJc5ZMYy94SaaNf7XkFOE88Y8KjAL4WY3DOvGPdQl25htFI1kyA58SGW9QKBgBSo\nVlf6GbPJI6Dxc4Bqd83BoAzm+O/eWhvm+NSPwI9cbQUMmtA9E5ucEoqJa78XJX8/\nfw4+wJ1To5wwfg3h9Vzh16VvoJF5PnFbRoqPkK6yqeQpX7IjUSDqJ5Kr1co7AzgB\nvoRPKFYdOaVbqpU+BfGU+5QPMEyOFxFgvDMWpQpBAoGBALsdrRiHD+QrzleUW6c5\n824TBT4ChgmTpeY/xvvWiXVZnjO3r/hHbHlKEJ94F6GUgiN3jxpe5IZkM9JpRvUH\nnwwqhVqb/Aqi70+1SyhObmpK3A9Uj+OjFI2LYYLb9ihlDcIZE4AGAtTPXEenrYVA\nUsHRd5bjOjso+I4L4smq4t3R\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-iwbxezqei96bvovzeivrji30tw@sa2-elliot.iam.gserviceaccount.com",
+  "client_id": "100660482950232883824",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-iwbxezqei96bvovzeivrji30tw%40sa2-elliot.iam.gserviceaccount.com"
+}
